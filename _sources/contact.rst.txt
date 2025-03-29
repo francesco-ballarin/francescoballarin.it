@@ -6,9 +6,8 @@ Contact
 .. line-block::
     :fas:`user;sd-text-primary` Francesco Ballarin
 
-    :fas:`suitcase;sd-text-primary` `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_
-    :fas:`building-columns;sd-text-primary` `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_
-    :fas:`location-dot;sd-text-primary` `via Garzetta 48, I-25133 Brescia, Italy <https://maps.google.com/?q=via Garzetta 48, I-25133 Brescia, Italy>`_
+    :fas:`building-columns;sd-text-primary` `Faculty of Mathematical, Physical and Natural Sciences <https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_
+    :fas:`location-dot;sd-text-primary` `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `via Garzetta 48, I-25133 Brescia, Italy <https://maps.google.com/?q=via Garzetta 48, I-25133 Brescia, Italy>`_
 
     :fas:`phone;sd-text-primary`  +39 030 2406 723
     :fas:`at;sd-text-primary` `francesco.ballarin@unicatt.it <mailto:francesco.ballarin@unicatt.it>`_
@@ -22,6 +21,6 @@ Contact
     :far:`heart;sd-text-primary` `francesco-ballarin <https://github.com/sponsors/francesco-ballarin>`__
     :fab:`github;sd-text-primary` `francesco-ballarin <https://github.com/francesco-ballarin>`__
     :fab:`gitlab;sd-text-primary` `francesco-ballarin <https://gitlab.com/francesco-ballarin>`__
-    :fab:`debian;sd-text-primary` `francesco.ballarin <https://salsa.debian.org/francesco.ballarin>`__
+    :fab:`debian;sd-text-primary` `ballarin <https://salsa.debian.org/ballarin>`__
     :fas:`box;sd-text-primary` `francesco.ballarin <https://pypi.org/user/francesco.ballarin>`__
     :fab:`kaggle;sd-text-primary` `francescoballarin <https://kaggle.com/francescoballarin>`__

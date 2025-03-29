@@ -18,11 +18,11 @@ Projects
     
         * Member and unit leader of "`ARIA: Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_" (coordinated by Inria Bordeaux), MSCA-RISE-2019, 2022-2024. Units: Inria, Optimad, Politecnico di Torino, Politecnico di Milano, SISSA, Esteco, NUREA, Valorem, Volkswagen, Virtual Mechanics, Universidad de Sevilla, IEFLUIDS, Università Cattolica del Sacro Cuore, Università di Trieste, Conservatoire national des arts et métiers.
     
-        * Principal investigator of "Reduced order modelling for numerical simulation of partial differential equations", D.1 project by Università Cattolica del Sacro Cuore, 2022-2024. Units at Università Cattolica del Sacro Cuore: Department of Mathematics and Physics.
+        * Principal investigator of "Reduced order modelling for numerical simulation of partial differential equations", D.1 project by Università Cattolica del Sacro Cuore, 2022-2024. Units at Università Cattolica del Sacro Cuore: Faculty of Mathematical, Physical and Natural Sciences.
     
         * Member of "Metodi di riduzione computazionale per le scienze applicate: focus su sistemi complessi" (PI: Prof. Gianluigi Rozza), INdAM GNCS 2022, 2022. Units: IMT Lucca, Politecnico di Milano, SISSA, Università Cattolica del Sacro Cuore, Università di Trento.
     
-        * Member of "`ACCURATE: Accurate Climate Change Unified Risk Assessment for Territory and Environment in sub-alpine lakes <https://asa.unicatt.it/asa-progetti-accurate>`_" (PI: Prof. Maurizio Paolini), D.3.2 project by Università Cattolica del Sacro Cuore, 2021. Units at Università Cattolica del Sacro Cuore: Department of Mathematics and Physics, Graduate School of Environmental Studies, Faculty of Education.
+        * Member of "`ACCURATE: Accurate Climate Change Unified Risk Assessment for Territory and Environment in sub-alpine lakes <https://asa.unicatt.it/asa-progetti-accurate>`_" (PI: Prof. Maurizio Paolini), D.3.2 project by Università Cattolica del Sacro Cuore, 2021. Units at Università Cattolica del Sacro Cuore: Faculty of Mathematical, Physical and Natural Sciences, Graduate School of Environmental Studies, Faculty of Education.
     
         * Member of "Advanced Numerical Techniques for Industrial Applications" (PI: Prof. Simona Perotto), INdAM GNCS 2020, 2020. Units: Politecnico di Milano, SISSA, Università di Pavia.
     

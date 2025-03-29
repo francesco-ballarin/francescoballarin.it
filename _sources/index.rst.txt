@@ -4,7 +4,7 @@ Francesco Ballarin
 =========================================================
 .. meta::
     :description lang=en:
-        Francesco Ballarin is Associate Professor of Numerical Analysis at the Department of Mathematics and Physics, Università Cattolica del Sacro Cuore.
+        Francesco Ballarin is Associate Professor of Numerical Analysis at the Faculty of Mathematical, Physical and Natural Sciences, Università Cattolica del Sacro Cuore.
 
 .. toctree::
     :maxdepth: 1
@@ -25,7 +25,7 @@ Francesco Ballarin
 
         :doc:`Affiliation <affiliation>`
         ^^^
-        Associate Professor of Numerical Analysis at the `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_.
+        Associate Professor of Numerical Analysis at the `Faculty of Mathematical, Physical and Natural Sciences <https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_.
         +++
         :doc:`Read more <affiliation>`
 
@@ -44,9 +44,8 @@ Francesco Ballarin
         ^^^
         .. line-block::
             :fas:`user;sd-text-primary` Francesco Ballarin
-            :fas:`suitcase;sd-text-primary` `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_
             :fas:`building-columns;sd-text-primary` `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_
-            :fas:`location-dot;sd-text-primary` `via Garzetta 48, I-25133 Brescia, Italy <https://maps.google.com/?q=via Garzetta 48, I-25133 Brescia, Italy>`_
+            :fas:`location-dot;sd-text-primary` `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `via Garzetta 48, I-25133 Brescia, Italy <https://maps.google.com/?q=via Garzetta 48, I-25133 Brescia, Italy>`_
             :fas:`at;sd-text-primary` `francesco.ballarin@unicatt.it <mailto:francesco.ballarin@unicatt.it>`_
         +++
         :doc:`Read more <contact>`
