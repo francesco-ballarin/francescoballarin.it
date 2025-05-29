@@ -28,7 +28,7 @@ Current position
     .. container:: sd-badge-next-text
 
         `Faculty of Mathematical, Physical and Natural Sciences <https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali>`_,
-        `Università Cattolica del Sacro Cuore, Brescia, Italy <https://www.unicatt.it/>`_
+        `Università Cattolica del Sacro Cuore, Italy <https://www.unicatt.it/>`_
 
         
 
@@ -101,7 +101,7 @@ Former positions
     .. container:: sd-badge-next-text
 
         `Faculty of Mathematical, Physical and Natural Sciences <https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali>`_,
-        `Università Cattolica del Sacro Cuore, Brescia, Italy <https://www.unicatt.it/>`_
+        `Università Cattolica del Sacro Cuore, Italy <https://www.unicatt.it/>`_
 
         
 

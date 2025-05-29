@@ -7,9 +7,9 @@ Contact
     :fas:`user;sd-text-primary` Francesco Ballarin
 
     :fas:`building-columns;sd-text-primary` `Faculty of Mathematical, Physical and Natural Sciences <https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_
-    :fas:`location-dot;sd-text-primary` `Department of Mathematics and Physics <https://www.dmf.unicatt.it/>`_, `via Garzetta 48, I-25133 Brescia, Italy <https://maps.google.com/?q=via Garzetta 48, I-25133 Brescia, Italy>`_
+    :fas:`location-dot;sd-text-primary` `Department of Mathematics and Physics <https://dipartimenti.unicatt.it/dmf>`_, `via Garzetta 48, I-25133 Brescia, Italy <https://maps.google.com/?q=via Garzetta 48, I-25133 Brescia, Italy>`_
+    :fas:`location-dot;sd-text-primary` `Department of Mathematics for Economic, Financial and Actuarial Sciences <https://dipartimenti.unicatt.it/dimsefa>`_, `via Necchi 9, I-20123 Milano, Italy <https://maps.google.com/?q=via Necchi 9, I-20123 Milano, Italy>`_
 
-    :fas:`phone;sd-text-primary`  +39 030 2406 723
     :fas:`at;sd-text-primary` `francesco.ballarin@unicatt.it <mailto:francesco.ballarin@unicatt.it>`_
 
     :fab:`orcid;sd-text-primary` `0000-0001-6460-3538 <https://orcid.org/0000-0001-6460-3538>`__

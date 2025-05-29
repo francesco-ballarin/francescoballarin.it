@@ -21,7 +21,7 @@ Publications
             :list: enumerated
             :style: custom_bib_style_full_list
             :filter: year and (year == "2024")
-            :start: 71
+            :start: 70
     
     .. tab-item:: 2023
 
