@@ -88,7 +88,7 @@ button[data-md-color-accent=unicatt] {
     display: None;
 }
 
-#index--page-root, .toctree-wrapper {
+#francesco-ballarin > h1, #index--page-root, .toctree-wrapper {
     display: None;
 }
 
@@ -320,6 +320,10 @@ https://github.com/executablebooks/sphinx-design/blob/main/style/_tabs.scss
 
 .sd-card-software-container .sd-badge-next-text {
     margin-left: 2em;
+}
+
+.sd-dropdown > .sd-summary-title {
+    display: flex !important;
 }
 
 /* Incompatibilities between sphinx-material-design and sphinx-design */

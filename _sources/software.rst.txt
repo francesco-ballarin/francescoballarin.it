@@ -24,7 +24,7 @@ Software
 
         .. container:: sd-badge-next-text
 
-            https://www.rbnicsproject.org/
+            https://www.rbnicsproject.org
 
         :bdg-primary-line:`Source code`
 
@@ -96,7 +96,7 @@ Software
 
         .. container:: sd-badge-next-text
 
-            https://femlium.github.io/
+            https://femlium.github.io
 
         :bdg-primary-line:`Source code`
 
@@ -133,7 +133,7 @@ Software
 
         .. container:: sd-badge-next-text
 
-            https://fem-on-colab.github.io/, https://fem-on-kaggle.github.io/
+            https://fem-on-colab.github.io, https://fem-on-kaggle.github.io
 
         :bdg-primary-line:`Source code`
 
@@ -168,7 +168,7 @@ Software
 
         .. container:: sd-badge-next-text
 
-            https://viskex.github.io/
+            https://viskex.github.io
 
         :bdg-primary-line:`Source code`
 
@@ -199,7 +199,7 @@ Software
 
         .. container:: sd-badge-next-text
 
-            https://fenicsproject.org/
+            https://fenicsproject.org
 
         :bdg-primary-line:`Source code`
 
@@ -212,3 +212,34 @@ Software
         .. container:: sd-badge-next-text
 
             Member of the Steering Council, 2023-ongoing
+.. dropdown:: Debian Project
+
+    .. container:: sd-card-software-container
+
+        .. container:: sd-card-body-software-img-container
+
+    
+            .. image:: https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png
+    
+
+    
+        **Debian** is a free and open source Linux distribution, developed by the Debian Project. **Debian** is one of the oldest operating systems based on the Linux kernel, and is the basis of many other Linux distributions.
+    
+
+        :bdg-primary-line:`Home page`
+
+        .. container:: sd-badge-next-text
+
+            https://www.debian.org
+
+        :bdg-primary-line:`Source code`
+
+        .. container:: sd-badge-next-text
+
+            https://salsa.debian.org
+
+        :bdg-primary-line:`Years active`
+
+        .. container:: sd-badge-next-text
+
+            Debian Developer, 2025-ongoing

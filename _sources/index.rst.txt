@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/debian-slider.png
+
+            ..
+
+            
+            <a href="https://qa.debian.org/developer.php?login=francesco.ballarin%40unicatt.it" target="_blank">I joined the Debian Project as Debian Developer (July 2025).</a>
+        
         .. figure:: _static/images/mathex-slider.png
 
             ..
@@ -100,20 +107,6 @@ Francesco Ballarin
             
             <a href="https://arxiv.org/abs/2410.02673" target="_blank">New preprint on a priori error bounds for the approximate deconvolution Leray ROM in fluid dynamics, by I. Moore, A. Sanfilippo, F. Ballarin, T. Iliescu (October 2024).</a>
         
-        .. figure:: _static/images/semmat-slider.png
-
-            ..
-
-            
-            <a href="https://sites.google.com/unibs.it/semmat/home" target="_blank">I was appointed vice-director of the Seminario Matematico di Brescia (September 2024).</a>
-        
-        .. figure:: _static/images/a-priori-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2409.00621" target="_blank">New preprint on a priori error bounds for reduced order models based on proper orthogonal decomposition for applications in fluid dynamics, by F. Ballarin and T. Iliescu (September 2024).</a>
-        
 
 .. grid:: 1 1 2 2
     :gutter: 2
@@ -122,11 +115,12 @@ Francesco Ballarin
 
         :doc:`Software <software>`
         ^^^
-        * Lead developer of `RBniCS - reduced order modelling in FEniCS <https://www.rbnicsproject.org/>`_, 2015-ongoing.
+        * Lead developer of `RBniCS - reduced order modelling in FEniCS <https://www.rbnicsproject.org>`_, 2015-ongoing.
         * Lead developer of `multiphenics/multiphenicsx - easy prototyping of multiphysics problems in FEniCS/FEniCSx <https://multiphenics.github.io>`_, 2016-ongoing.
-        * Lead developer of `FEMlium - interactive visualization of finite element simulations on geographic maps with folium <https://femlium.github.io/>`_, 2021-ongoing.
-        * Lead developer of `FEM on Colab/FEM on Kaggle <https://fem-on-colab.github.io/>`_, 2021-ongoing.
-        * Lead developer of `viskex - interactive visualization for firedrake and FEniCSx <https://viskex.github.io/>`_, 2023-ongoing.
+        * Lead developer of `FEMlium - interactive visualization of finite element simulations on geographic maps with folium <https://femlium.github.io>`_, 2021-ongoing.
+        * Lead developer of `FEM on Colab/FEM on Kaggle <https://fem-on-colab.github.io>`_, 2021-ongoing.
+        * Lead developer of `viskex - interactive visualization for firedrake and FEniCSx <https://viskex.github.io>`_, 2023-ongoing.
+        
         
         +++
         :doc:`Read more <software>`
@@ -160,9 +154,9 @@ Francesco Ballarin
 
         :doc:`Students <students>`
         ^^^
+        * Co-advisor in the master thesis of Aurora Rosanna Ruggeri, "Analysis of Casson fluid flow". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2025).
         * Advisor in the Ph.D. thesis of Anna Sanfilippo, "Regularization Techniques for Reduced Order Models in Convection-Dominated Flows". Ph.D. in Mathematics, Università di Trento, Italy (Apr. 2025).
         * Advisor in the master thesis of Giuseppe Cardinale, "Scalable Recommendation Systems with Amazon Data". Master degree in Statistical and Actuarial Sciences, Università Cattolica del Sacro Cuore, Milano, Italy (Mar. 2025).
-        * Advisor in the master thesis of Anuja Saira Abraham, "Skin Cancer Prediction: A comparative analysis of CNN, VGG, AlexNet and ResNet Deep Learning models". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Feb. 2025).
         +++
         :doc:`Read more <students>`
 
