@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/rom-global-in-time.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2508.04082" target="_blank">New preprint on global-in-time iterative decoupled POD-Galerkin reduced order models for linear poroelasticity, by H. Gu, F. Ballarin, M. Cai, J. Li (August 2025).</a>
+        
         .. figure:: _static/images/debian-slider.png
 
             ..
@@ -78,34 +85,6 @@ Francesco Ballarin
 
             
             <a href="https://centridiricerca.unicatt.it/mathex" target="_blank">I was appointed director of MATHEX, the research center of Università Cattolica on applications of mathematics and computer science (May 2025).</a>
-        
-        .. figure:: _static/images/gbl-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2412.05330" target="_blank">New preprint on glioblastoma growth by means of reduced order models based on AI, by D. Cerrone, D. Riccobelli, P. Vitullo, F. Ballarin, J. Falco, F. Acerbi, A. Manzoni, P. Zunino, P. Ciarletta (December 2024).</a>
-        
-        .. figure:: _static/images/vms-ef-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2411.13957" target="_blank">New preprint on variational multiscale evolve and filter models for convection dominated flows, by M. Strazzullo, F. Ballarin, T. Iliescu, T. Chacón Rebollo (November 2024).</a>
-        
-        .. figure:: _static/images/ocp-cardiovascular-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2410.20828" target="_blank">New preprint on unsteady optimal control problems for cardiovascular flows, by S. Rathore, P. C. Africa, F. Ballarin, F. Pichi, M. Girfoglio, G. Rozza (October 2024).</a>
-        
-        .. figure:: _static/images/na-adl-rom-slider.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2410.02673" target="_blank">New preprint on a priori error bounds for the approximate deconvolution Leray ROM in fluid dynamics, by I. Moore, A. Sanfilippo, F. Ballarin, T. Iliescu (October 2024).</a>
         
 
 .. grid:: 1 1 2 2
