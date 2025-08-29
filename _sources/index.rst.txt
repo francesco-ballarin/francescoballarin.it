@@ -65,6 +65,13 @@ Francesco Ballarin
         :data-bs-ride: carousel
 
         
+        .. figure:: _static/images/himod-infsup-slider.png
+
+            ..
+
+            
+            <a href="https://www.mate.polimi.it/biblioteca/add/qmox/48-2025.pdf" target="_blank">New preprint on proving the inf-sup condition for the semidiscrete HiMod reduction of Stokes problems, by E. Temellini, F. Ballarin, T. Chacón Rebollo, S. Perotto (August 2025).</a>
+        
         .. figure:: _static/images/rom-global-in-time.png
 
             ..
