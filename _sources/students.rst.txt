@@ -9,6 +9,10 @@ Students
     .. tab-item:: 2025
 
         
+        * Advisor in the master thesis of Sveva Maria Martilotti, "Deep Learning for breast cancer diagnosis: a comparison of optimizers in a Convolutional Neural Network". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Sep. 2025). Advisor: Francesco Ballarin
+        * Advisor in the master thesis of Sara Pascali, "Neural Networks for Predicting Tennis Match Outcome". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Sep. 2025). Advisor: Francesco Ballarin
+        * Co-advisor in the master thesis of Aurora Bodei, "Mathematical models and simulation of hemolysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2025). Advisor: Giulia Giantesio; co-advisors: Alberto Girelli, Francesco Ballarin.
+        * Co-advisor in the master thesis of Maria Ghisini, "Analysis and applications of the interior point method". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2025). Advisor: Francesco Ballarin; co-advisor: Alessandro Musesti.
         * Co-advisor in the master thesis of Aurora Rosanna Ruggeri, "Analysis of Casson fluid flow". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2025). Advisor: Giulia Giantesio; co-advisor: Francesco Ballarin.
         * Advisor in the Ph.D. thesis of Anna Sanfilippo, "Regularization Techniques for Reduced Order Models in Convection-Dominated Flows". Ph.D. in Mathematics, Università di Trento, Italy (Apr. 2025). Advisor: Francesco Ballarin; co-advisor: Ana Alonso Rodriguez.
         * Advisor in the master thesis of Giuseppe Cardinale, "Scalable Recommendation Systems with Amazon Data". Master degree in Statistical and Actuarial Sciences, Università Cattolica del Sacro Cuore, Milano, Italy (Mar. 2025). Advisor: Francesco Ballarin
