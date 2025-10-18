@@ -7,14 +7,16 @@ Teaching
     .. tab-item:: Current
 
     
-        * Lecturer for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (1 edition: Spring 2025). Co-lecturer: Maurizio Paolini.
-        * Lecturer for course on "Interdisciplinarity in science". Post-graduate A28 program for middle school teachers, Università Cattolica del Sacro Cuore, Italy (3 editions: Fall 2024 in Brescia, Fall 2024 in Piacenza, Spring 2025 in Brescia).
-        * Lecturer for course on "Computational fluid dynamics". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (1 edition: Fall 2024).
-        * Lecturer for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (1 edition: Fall 2024 + Spring 2025). Co-lecturer: Maurizio Paolini.
-        * Lecturer for course on "Stochastic processes and optimization for machine learning". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (4 editions: Fall 2024, Fall 2023, Fall 2022, Fall 2021). Co-lecturer: Bruno Buonaguidi.
+        * Lecturer for course on "Stochastic processes and optimization for data science". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (1 edition: Spring 2026). Co-lecturer: Bruno Buonaguidi.
+        * Lecturer for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (2 editions: Spring 2026, Spring 2025). Co-lecturer: Maurizio Paolini.
+        * Lecturer for course on "Mathematical methods". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (1 edition: Fall 2025). Co-lecturer: Enrico Miglierina.
+        * Lecturer for course on "Computational fluid dynamics". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (2 editions: Fall 2025, Fall 2024).
+        * Lecturer for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (2 editions: Fall 2025 + Spring 2026, Fall 2024 + Spring 2025). Co-lecturer: Maurizio Paolini.
+        * Lecturer for course on "Interdisciplinarity in science". Post-graduate A28 program for middle school teachers, Università Cattolica del Sacro Cuore, Italy (3 editions: Spring 2025 in Brescia, Fall 2024 in Brescia, Fall 2024 in Piacenza).
     .. tab-item:: Past
 
     
+        * Lecturer for course on "Stochastic processes and optimization for machine learning". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (5 editions: Spring 2026, Fall 2024, Fall 2023, Fall 2022, Fall 2021). Co-lecturer: Bruno Buonaguidi.
         * Teaching assistant for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Spring 2024, Spring 2023, Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
         * Teaching assistant for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Fall 2023 + Spring 2024, Fall 2022 + Spring 2023, Fall 2021 + Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
         * Lecturer for course on "`Summer school on reduced order methods in computational fluid dynamics <https://indico.sissa.it/event/74/>`_". Summer school at SISSA, Trieste, Italy (2 editions: Jul. 2022, Jul. 2019).
