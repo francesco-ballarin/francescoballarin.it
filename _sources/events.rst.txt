@@ -6,6 +6,7 @@ Events
 .. tab-set::
     
     
+    
     .. tab-item:: 2025
 
         
@@ -54,7 +55,7 @@ Events
             * Francesca Bonizzoni, Francesco Ballarin. Minisymposium organizer, `SIAM UQ 22 <https://www.siam.org/conferences/cm/conference/uq22>`_, Atlanta, Georgia, United States (12-15 Apr. 2022), minisymposium on "Reduced Order Modelling for Forward and Inverse UQ".
             * Francesco Ballarin, "Optimal control and reduced order models: enablers to assimilate boundary conditions from data for cardiovascular simulations". Invited seminar, `ARIA <https://project.inria.fr/aria/seminar-march-2022/>`_, online (10 Mar. 2022).
     
-    .. tab-item:: 2021
+    .. tab-item:: < 2022
 
         
             * Gianluigi Rozza, Francesco Ballarin, Andrea Mola, Giovanni Stabile, SISSA mathLab team. Local organizing committee, `RAMSES: Reduced order models; Approximation theory; Machine learning; Surrogates, Emulators and Simulators <https://indico.sissa.it/event/43/>`_, Trieste, Italy (14-17 Dec. 2021).
@@ -64,10 +65,6 @@ Events
             * Francesco Ballarin, "Mathematical modelling of the cardiovascular system". Divulgative seminar, `SCIENCE@HOME <https://www.unicatt.it/eventi/evt-sciencehome>`_, Università Cattolica del Sacro Cuore, Brescia, Italy (18 Jun. 2021).
             * Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Talk in a minisymposium, `COUPLED 2021 <https://coupled2021.cimne.com/>`_, online (14-16 Jun. 2021).
             * Francesco Ballarin, "RBniCS and multiphenics: two FEniCS-based packages for reduced order modelling and multiphysics problems". Talk in a minisymposium, `WCCM ECCOMAS 2020 <https://www.wccm-eccomas2020.org/>`_, online (11-15 Jan. 2021).
-    
-    .. tab-item:: < 2021
-
-        
             * Federico Pichi, Maria Strazzullo, Francesco Ballarin, Gianluigi Rozza, "Driving bifurcating parametrized nonlinear PDEs by optimal control strategies: application to Navier-Stokes equations". Invited seminar, `CASA Colloquia 2020 <https://www.win.tue.nl/casa/meetings/colloquium/2021/>`_, Department of Mathematics and Computer Science, Eindhoven University of Technology, The Netherlands (16 Dec. 2020).
             * Gianluigi Rozza, Giovanni Stabile, Francesco Ballarin. Minisymposium organizer, `SIAM UQ 2020 (canceled) <https://www.siam.org/conferences/cm/conference/uq20>`_, Munich Garching, Germany (24-27 Mar. 2020), minisymposium on "Reduced order methods for uncertainty quantification in CFD parametric problems".
             * Francesco Ballarin, "Mathematical modelling of the cardiovascular system". Divulgative seminar, `Junior Math Days 2019 <https://people.sissa.it/~vfantini/JMD2019/SchoolMath.html>`_, SISSA, Trieste, Italy (18 Dec. 2019).

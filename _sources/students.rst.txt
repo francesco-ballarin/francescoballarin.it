@@ -6,6 +6,7 @@ Students
 .. tab-set::
     
     
+    
     .. tab-item:: 2025
 
         
@@ -50,7 +51,7 @@ Students
         * Co-advisor in the master thesis of Emanuela Viani, "Sparse direct methods and Krylov methods for large sparse linear systems". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Jul. 2022). Advisor: Maurizio Paolini; co-advisor: Francesco Ballarin.
         * Co-advisor in the master thesis of William Andreoli, "Surface reconstruction and surface PDEs, with an application to Lake Garda". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Apr. 2022). Advisor: Maurizio Paolini; co-advisor: Francesco Ballarin.
     
-    .. tab-item:: 2021
+    .. tab-item:: < 2022
 
         
         * Co-advisor in the bachelor thesis of Rebecca Faustini, "Numerical analysis techinques in celestial mechanics". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2021). Advisor: Maurizio Paolini; co-advisor: Francesco Ballarin.
@@ -58,10 +59,6 @@ Students
         * Co-advisor in the master thesis of Pierfrancesco Siena, "`A machine learning-based reduced order model for the investigation of the blood flow patterns in presence of a stenosis of the left main coronary artery <http://webthesis.biblio.polito.it/18796/1/tesi.pdf>`_". Master degree in Mathematical Engineering, Politecnico di Torino, Italy (Jul. 2021). Advisors: Claudio Canuto, Gianluigi Rozza; co-advisors: Francesco Ballarin, Michele Girfoglio.
         * Committee member in the master thesis of Jack Tattersall, "Hemodynamic modelling of arteriovenous grafts". Master degree in Biomedical Engineering, Eindhoven University of Technology, the Netherlands (May 2021). Advisors: Wouter Huberts, Maarten Snoeijs, Frans van de Vosse
         * Co-advisor in the master thesis of Anna Sanfilippo, "Reduced Basis Methods for Electromagnetic Problems". Master degree in Mathematics, Università di Trento, Italy (Mar. 2021). Advisor: Ana Alonso Rodriguez; co-advisor: Francesco Ballarin.
-    
-    .. tab-item:: < 2021
-
-        
         * Co-advisor in the Ph.D. thesis of Monica Nonino, "`On the application of the Reduced Basis Method to Fluid-Structure Interaction problems <http://hdl.handle.net/20.500.11767/114309>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2020). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the Ph.D. thesis of Federico Pichi, "`Reduced order models for parametric bifurcation problems in nonlinear PDEs <http://hdl.handle.net/20.500.11767/114329>`_". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (Sep. 2020). Advisor: Gianluigi Rozza; co-advisor: Francesco Ballarin.
         * Co-advisor in the master thesis of Giuseppe Infantino, "`Reduced order methods for hemodynamics modelling <http://webthesis.biblio.polito.it/14783/1/tesi.pdf>`_". Master degree in Mathematical Engineering, Politecnico di Torino, Italy (Jul. 2020). Advisors: Claudio Canuto, Gianluigi Rozza; co-advisors: Francesco Ballarin, Michele Girfoglio.

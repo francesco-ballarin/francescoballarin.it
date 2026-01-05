@@ -43,7 +43,7 @@ Current position
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
 
-    :octicon:`calendar;1em;sd-text-light` Jun. 2023 - Jun. 2034
+    :octicon:`calendar;1em;sd-text-light` Jun. 2023 - Jun. 2035
 
 .. container:: sd-badge-affiliation-container
 
@@ -63,7 +63,7 @@ Current position
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
 
-    :octicon:`calendar;1em;sd-text-light` Dec. 2023 - Dec. 2034
+    :octicon:`calendar;1em;sd-text-light` Dec. 2023 - Dec. 2035
 
 .. container:: sd-badge-affiliation-container
 
@@ -116,7 +116,7 @@ Former positions
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
 
-    :octicon:`calendar;1em;sd-text-light` Jul. 2020 - Jul. 2030
+    :octicon:`calendar;1em;sd-text-light` Jul. 2020 - Jul. 2032
 
 .. container:: sd-badge-affiliation-container
 

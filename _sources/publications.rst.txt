@@ -30,7 +30,7 @@ Publications
             :list: enumerated
             :style: custom_bib_style_full_list
             :filter: year and (year == "2023")
-            :start: 60
+            :start: 59
     
     .. tab-item:: 2022
 
@@ -41,21 +41,12 @@ Publications
             :filter: year and (year == "2022")
             :start: 49
     
-    .. tab-item:: 2021
+    .. tab-item:: < 2022
 
     
         .. bibliography::
             :list: enumerated
             :style: custom_bib_style_full_list
-            :filter: year and (year == "2021")
+            :filter: year and (year < "2022")
             :start: 38
-    
-    .. tab-item:: < 2021
-
-    
-        .. bibliography::
-            :list: enumerated
-            :style: custom_bib_style_full_list
-            :filter: year and (year < "2021")
-            :start: 27
     

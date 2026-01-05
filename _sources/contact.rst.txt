@@ -16,7 +16,6 @@ Contact
     :fas:`s;sd-text-primary` `56418251700 <https://www.scopus.com/authid/detail.uri?authorId=56418251700>`__
     :fas:`w;sd-text-primary` `AAH-4300-2019 <https://www.webofscience.com/wos/author/record/AAH-4300-2019>`__
     :fab:`google-scholar;sd-text-primary` `bptmbqgAAAAJ <https://scholar.google.com/citations?user=bptmbqgAAAAJ>`__
-    :fab:`researchgate;sd-text-primary` `Francesco-Ballarin <https://www.researchgate.net/profile/Francesco-Ballarin>`__
 
     :far:`heart;sd-text-primary` `francesco-ballarin <https://github.com/sponsors/francesco-ballarin>`__
     :fab:`github;sd-text-primary` `francesco-ballarin <https://github.com/francesco-ballarin>`__
