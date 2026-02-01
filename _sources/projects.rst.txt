@@ -4,15 +4,14 @@ Projects
 ========
 
 .. tab-set::
-    .. tab-item:: Current
+    
+    
+    .. tab-item:: Past
 
     
         * Member and unit leader of "ROMEU: Reduced Order Models for Environmental and Urban flows" (PI: Prof. Giovanni Stabile), PRIN 2022 PNRR, 2023-2025. Units: IMT Lucca, Scuola Superiore Sant'Anna, Università Cattolica del Sacro Cuore.
     
         * Member of "Mathematical models for viscoelastic biological matter" (PI: Prof. Giulio Giusteri), PRIN 2022, 2023-2025. Units: Politecnico di Milano, Università Cattolica del Sacro Cuore, Università di Padova.
-    
-    .. tab-item:: Past
-
     
         * Member of "Metodi numerici per lo studio di strutture geometriche parametriche complesse" (PI: Dr. Maria Strazzullo), INdAM GNCS 2023, 2023. Units: Politecnico di Torino, Università Cattolica del Sacro Cuore, Università di Parma.
     

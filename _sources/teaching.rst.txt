@@ -4,28 +4,30 @@ Teaching
 ========
 
 .. tab-set::
+    
     .. tab-item:: Current
 
     
-        * Lecturer for course on "Stochastic processes and optimization for data science". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (1 edition: Spring 2026). Co-lecturer: Bruno Buonaguidi.
-        * Lecturer for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (2 editions: Spring 2026, Spring 2025). Co-lecturer: Maurizio Paolini.
-        * Lecturer for course on "Mathematical methods". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (1 edition: Fall 2025). Co-lecturer: Enrico Miglierina.
+        * Lecturer for course on "Stochastic processes and optimization for data science". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (1 edition: Spring 2026). Lecturers: Prof. Francesco Ballarin, Prof. Bruno Buonaguidi.
+        * Lecturer for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (2 editions: Spring 2026, Spring 2025). Lecturers: Prof. Maurizio Paolini, Prof. Francesco Ballarin.
+        * Lecturer for course on "Mathematical methods". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (1 edition: Fall 2025). Lecturers: Prof. Francesco Ballarin, Prof. Enrico Miglierina.
         * Lecturer for course on "Computational fluid dynamics". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (2 editions: Fall 2025, Fall 2024).
-        * Lecturer for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (2 editions: Fall 2025 + Spring 2026, Fall 2024 + Spring 2025). Co-lecturer: Maurizio Paolini.
+        * Lecturer for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (2 editions: Fall 2025 + Spring 2026, Fall 2024 + Spring 2025). Lecturers: Prof. Maurizio Paolini, Prof. Francesco Ballarin.
         * Lecturer for course on "Interdisciplinarity in science". Post-graduate A28 program for middle school teachers, Università Cattolica del Sacro Cuore, Italy (3 editions: Spring 2025 in Brescia, Fall 2024 in Brescia, Fall 2024 in Piacenza).
+    
     .. tab-item:: Past
 
     
-        * Lecturer for course on "Stochastic processes and optimization for machine learning". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (5 editions: Spring 2026, Fall 2024, Fall 2023, Fall 2022, Fall 2021). Co-lecturer: Bruno Buonaguidi.
-        * Teaching assistant for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Spring 2024, Spring 2023, Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
-        * Teaching assistant for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Fall 2023 + Spring 2024, Fall 2022 + Spring 2023, Fall 2021 + Spring 2022, Spring 2021). Lecturer: Maurizio Paolini.
+        * Lecturer for course on "Stochastic processes and optimization for machine learning". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (5 editions: Spring 2026, Fall 2024, Fall 2023, Fall 2022, Fall 2021). Lecturers: Prof. Francesco Ballarin, Prof. Bruno Buonaguidi.
+        * Teaching assistant for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Spring 2024, Spring 2023, Spring 2022, Spring 2021). Lecturer: Prof. Maurizio Paolini.
+        * Teaching assistant for course on "Numerical analysis". Bachelor degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (4 editions: Fall 2023 + Spring 2024, Fall 2022 + Spring 2023, Fall 2021 + Spring 2022, Spring 2021). Lecturer: Prof. Maurizio Paolini.
         * Lecturer for course on "`Summer school on reduced order methods in computational fluid dynamics <https://indico.sissa.it/event/74/>`_". Summer school at SISSA, Trieste, Italy (2 editions: Jul. 2022, Jul. 2019).
-        * Teaching assistant for course on "Computational mechanics by reduced order methods". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy and Master in HPC, SISSA-ICTP, Italy (8 editions: Spring 2022, Spring 2021, Spring 2020, Spring 2019, Spring 2018, Spring 2017, Spring 2016, Spring 2015). Lecturer: Gianluigi Rozza.
-        * Teaching assistant for course on "Topics in computational fluid dynamics". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (6 editions: Spring 2021, Spring 2020, Spring 2019, Spring 2018, Spring 2017, Spring 2016). Lecturer: Gianluigi Rozza.
-        * Teaching assistant for course on "Applied mathematics: an introduction to scientific computing by numerical analysis". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy; Master in HPC, SISSA-ICTP, Italy; Master degree in Mathematics, Università di Trieste, Italy; Master degree in Data Science and Scientific Computing, Università di Trieste, Italy (4 editions: Fall 2020, Fall 2019, Fall 2018, Fall 2017). Lecturers: Luca Heltai, Gianluigi Rozza.
-        * Teaching assistant for course on "`Certified reduced basis methods for computational mechanics <http://www.bcamath.org/en/courses/2016-01-26-bcam-course>`_". Ph.D. in Mathematics, Basque Center for Applied Mathematics, Bilbao, Spain (1 edition: Jan. 2016). Lecturer: Gianluigi Rozza.
-        * Teaching assistant for course on "`Introduction to reduced basis methods <http://www.politocomunica.polito.it/events/appuntamenti/(idnews)/6584>`_". Ph.D. in Mathematics, Politecnico di Torino, Italy (1 edition: Nov. 2015). Lecturer: Gianluigi Rozza.
-        * Lab assistant for course on "Numerical methods for engineering". Master degree in Energy Engineering, Politecnico di Milano, Italy (3 editions: Spring 2014, Spring 2013, Spring 2012). Lecturer: Raffaella Pavani.
-        * Teaching assistant for course on "Numerical analysis". Master degree in Automation Engineering, Politecnico di Milano, Italy (1 edition: Fall 2013). Lecturer: Simona Perotto.
-        * Teaching assistant for course on "Numerical analysis". Master degree in Electrical Engineering, Politecnico di Milano, Italy (1 edition: Spring 2013). Lecturer: Carlo de Falco.
-        * Teaching assistant for course on "Numerical analysis". Master degree in Automation Engineering, Politecnico di Milano, Italy (1 edition: Fall 2012). Lecturer: Carlo de Falco.
+        * Teaching assistant for course on "Computational mechanics by reduced order methods". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy and Master in HPC, SISSA-ICTP, Italy (8 editions: Spring 2022, Spring 2021, Spring 2020, Spring 2019, Spring 2018, Spring 2017, Spring 2016, Spring 2015). Lecturer: Prof. Gianluigi Rozza.
+        * Teaching assistant for course on "Topics in computational fluid dynamics". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy (6 editions: Spring 2021, Spring 2020, Spring 2019, Spring 2018, Spring 2017, Spring 2016). Lecturer: Prof. Gianluigi Rozza.
+        * Teaching assistant for course on "Applied mathematics: an introduction to scientific computing by numerical analysis". Ph.D. in Mathematical Analysis, Modelling, and Applications, SISSA, Italy; Master in HPC, SISSA-ICTP, Italy; Master degree in Mathematics, Università di Trieste, Italy; Master degree in Data Science and Scientific Computing, Università di Trieste, Italy (4 editions: Fall 2020, Fall 2019, Fall 2018, Fall 2017). Lecturers: Prof. Luca Heltai, Prof. Gianluigi Rozza.
+        * Teaching assistant for course on "`Certified reduced basis methods for computational mechanics <http://www.bcamath.org/en/courses/2016-01-26-bcam-course>`_". Ph.D. in Mathematics, Basque Center for Applied Mathematics, Bilbao, Spain (1 edition: Jan. 2016). Lecturer: Prof. Gianluigi Rozza.
+        * Teaching assistant for course on "`Introduction to reduced basis methods <http://www.politocomunica.polito.it/events/appuntamenti/(idnews)/6584>`_". Ph.D. in Mathematics, Politecnico di Torino, Italy (1 edition: Nov. 2015). Lecturer: Prof. Gianluigi Rozza.
+        * Lab assistant for course on "Numerical methods for engineering". Master degree in Energy Engineering, Politecnico di Milano, Italy (3 editions: Spring 2014, Spring 2013, Spring 2012). Lecturer: Prof. Raffaella Pavani.
+        * Teaching assistant for course on "Numerical analysis". Master degree in Automation Engineering, Politecnico di Milano, Italy (1 edition: Fall 2013). Lecturer: Prof. Simona Perotto.
+        * Teaching assistant for course on "Numerical analysis". Master degree in Electrical Engineering, Politecnico di Milano, Italy (1 edition: Spring 2013). Lecturer: Prof. Carlo de Falco.
+        * Teaching assistant for course on "Numerical analysis". Master degree in Automation Engineering, Politecnico di Milano, Italy (1 edition: Fall 2012). Lecturer: Prof. Carlo de Falco.
