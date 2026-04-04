@@ -160,10 +160,10 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
+        * Organizing committee, `YoungPeople4Math 2026 <https://sites.google.com/unibs.it/semmat/youngpeople4math2026>`_, Brescia, Italy (12 May 2026).
         * Organizing committee, `FEniCS 2025 <https://fenicsproject.org/fenics-2025>`_, Groningen, The Netherlands (18-20 Jun. 2025).
         * Talk in a minisymposium, `XII International Conference on Adaptive Modeling and Simulation ADMOS 2025 <https://admos2025.cimne.com/>`_, Barcelona, Spain (9-11 Jun. 2025).
         * Minisymposium organizer, `XII International Conference on Adaptive Modeling and Simulation ADMOS 2025 <https://admos2025.cimne.com/>`_, Barcelona, Spain (9-11 Jun. 2025).
-        * Organizing committee, `YoungPeople4Math 2025 <https://sites.google.com/unibs.it/semmat/youngpeople4math2025>`_, Brescia, Italy (20 May 2025).
         +++
         :doc:`Read more <events>`
 
@@ -171,10 +171,10 @@ Francesco Ballarin
 
         :doc:`Projects <projects>`
         ^^^
+        * Member of "Metodi numerici avanzati per problemi di fluidodinamica computazionale", INdAM GNCS 2026, 2026.
         * Member and unit leader of "ROMEU: Reduced Order Models for Environmental and Urban flows", PRIN 2022 PNRR, 2023-2025.
         * Member of "Mathematical models for viscoelastic biological matter", PRIN 2022, 2023-2025.
         * Member of "Metodi numerici per lo studio di strutture geometriche parametriche complesse", INdAM GNCS 2023, 2023.
-        * Member and unit leader of "`ARIA: Accurate ROMs for Industrial Applications <https://project.inria.fr/aria/>`_", MSCA-RISE-2019, 2022-2024.
         
         +++
         :doc:`Read more <projects>`

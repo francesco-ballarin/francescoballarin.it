@@ -5,6 +5,11 @@ Projects
 
 .. tab-set::
     
+    .. tab-item:: Current
+
+    
+        * Member of "Metodi numerici avanzati per problemi di fluidodinamica computazionale" (PI: Dr. Erika Temellini), INdAM GNCS 2026, 2026. Units: Politecnico di Milano, Università Cattolica del Sacro Cuore, Università di Modena e Reggio Emilia.
+    
     
     .. tab-item:: Past
 
