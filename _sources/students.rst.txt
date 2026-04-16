@@ -6,6 +6,10 @@ Students
 .. tab-set::
     
     
+    .. tab-item:: 2026
+
+        
+        * Advisor in the Ph.D. thesis of Erika Temellini, "`Advanced mathematical models and methods for the incompressible Navier-Stokes equations: Towards high Reynolds number regimes and realistic applications <https://hdl.handle.net/10589/250257>`_". Ph.D. in Mathematical Models and Methods in Engineering, Politecnico di Milano, Italy (Feb. 2026). Advisor: Prof. Simona Perotto; co-advisors: Prof. Francesco Ballarin, Prof. Tomás Chacón Rebollo.
     
     .. tab-item:: 2025
 
