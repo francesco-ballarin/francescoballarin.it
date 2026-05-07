@@ -8,6 +8,7 @@ Teaching
     .. tab-item:: Current
 
     
+        * Lecturer for course on "`Data-driven Modelling for Mechanical Systems Summer School <https://people.iitism.ac.in/~d2mms/>`_". Summer school at Indian Institute of Technology (Indian School of Mines) Dhanbad, India (1 edition: Jul. 2026).
         * Lecturer for course on "Stochastic processes and optimization for data science". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (1 edition: Spring 2026). Lecturers: Prof. Francesco Ballarin, Prof. Bruno Buonaguidi.
         * Lecturer for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (2 editions: Spring 2026, Spring 2025). Lecturers: Prof. Maurizio Paolini, Prof. Francesco Ballarin.
         * Lecturer for course on "Interdisciplinarity in science". Post-graduate A28 program for middle school teachers, Università Cattolica del Sacro Cuore, Italy (5 editions: Spring 2026 in Brescia, Spring 2026 in Piacenza, Spring 2025 in Brescia, Fall 2024 in Brescia, Fall 2024 in Piacenza).
