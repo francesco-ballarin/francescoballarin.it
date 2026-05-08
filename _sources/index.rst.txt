@@ -147,7 +147,7 @@ Francesco Ballarin
 
         :doc:`Students <students>`
         ^^^
-        * Advisor in the Ph.D. thesis of Erika Temellini, "`Advanced mathematical models and methods for the incompressible Navier-Stokes equations: Towards high Reynolds number regimes and realistic applications <https://hdl.handle.net/10589/250257>`_". Ph.D. in Mathematical Models and Methods in Engineering, Politecnico di Milano, Italy (Feb. 2026).
+        * Co-advisor in the Ph.D. thesis of Erika Temellini, "`Advanced mathematical models and methods for the incompressible Navier-Stokes equations: Towards high Reynolds number regimes and realistic applications <https://hdl.handle.net/10589/250257>`_". Ph.D. in Mathematical Models and Methods in Engineering, Politecnico di Milano, Italy (Feb. 2026).
         * Advisor in the master thesis of Ilaria Crippa, "Deep Learning Frameworks for Data Imputation in Forest Ecosystem Pollution Monitoring". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Dec. 2025).
         * Advisor in the master thesis of Sveva Maria Martilotti, "Deep Learning for breast cancer diagnosis: a comparison of optimizers in a Convolutional Neural Network". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Sep. 2025).
         +++
