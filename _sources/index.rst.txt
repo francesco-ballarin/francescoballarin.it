@@ -4,7 +4,7 @@ Francesco Ballarin
 =========================================================
 .. meta::
     :description lang=en:
-        Francesco Ballarin is Associate Professor of Numerical Analysis at the Faculty of Mathematical, Physical and Natural Sciences, Università Cattolica del Sacro Cuore.
+        Francesco Ballarin is Full Professor of Numerical Analysis at the Faculty of Mathematical, Physical and Natural Sciences, Università Cattolica del Sacro Cuore.
 
 .. toctree::
     :maxdepth: 1
@@ -25,7 +25,7 @@ Francesco Ballarin
 
         :doc:`Affiliation <affiliation>`
         ^^^
-        Associate Professor of Numerical Analysis at the `Faculty of Mathematical, Physical and Natural Sciences <https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_.
+        Full Professor of Numerical Analysis at the `Faculty of Mathematical, Physical and Natural Sciences <https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali>`_, `Università Cattolica del Sacro Cuore <https://www.unicatt.it/>`_.
         +++
         :doc:`Read more <affiliation>`
 

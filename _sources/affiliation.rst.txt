@@ -12,7 +12,40 @@ Current position
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
 
-    :octicon:`calendar;1em;sd-text-light` Mar. 2024 -  
+    :octicon:`calendar;1em;sd-text-light` Jun. 2026 -  
+
+.. container:: sd-badge-affiliation-container
+
+    
+    :bdg-primary-line:`Position`
+
+    .. container:: sd-badge-next-text
+
+        Full Professor of Numerical Analysis
+
+    :bdg-primary-line:`Institution`
+
+    .. container:: sd-badge-next-text
+
+        `Faculty of Mathematical, Physical and Natural Sciences <https://brescia.unicatt.it/facolta/scienze-matematiche-fisiche-e-naturali>`_,
+        `Università Cattolica del Sacro Cuore, Italy <https://www.unicatt.it/>`_
+
+        
+
+        
+
+
+Former positions
+----------------
+
+.. _position_2:
+
+.. button-link:: #position_2
+    :color: primary
+    :shadow:
+    :class: sd-btn-shadow-primary-no-hover
+
+    :octicon:`calendar;1em;sd-text-light` Mar. 2024 - May 2026
 
 .. container:: sd-badge-affiliation-container
 
@@ -36,9 +69,9 @@ Current position
 
 
 
-.. _position_2:
+.. _position_3:
 
-.. button-link:: #position_2
+.. button-link:: #position_3
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -56,9 +89,9 @@ Current position
 
 
 
-.. _position_3:
+.. _position_4:
 
-.. button-link:: #position_3
+.. button-link:: #position_4
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -75,12 +108,10 @@ Current position
         Italian National Scientific Qualification for Full Professorship of Fluid Dynamics
 
 
-Former positions
-----------------
 
-.. _position_4:
+.. _position_5:
 
-.. button-link:: #position_4
+.. button-link:: #position_5
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -109,9 +140,9 @@ Former positions
 
 
 
-.. _position_5:
+.. _position_6:
 
-.. button-link:: #position_5
+.. button-link:: #position_6
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -129,9 +160,9 @@ Former positions
 
 
 
-.. _position_6:
+.. _position_7:
 
-.. button-link:: #position_6
+.. button-link:: #position_7
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -166,9 +197,9 @@ Former positions
 
 
 
-.. _position_7:
+.. _position_8:
 
-.. button-link:: #position_7
+.. button-link:: #position_8
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -207,9 +238,9 @@ Former positions
 
 
 
-.. _position_8:
+.. _position_9:
 
-.. button-link:: #position_8
+.. button-link:: #position_9
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -250,9 +281,9 @@ Former positions
 Education
 ---------
 
-.. _position_9:
+.. _position_10:
 
-.. button-link:: #position_9
+.. button-link:: #position_10
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -296,9 +327,9 @@ Education
 
 
 
-.. _position_10:
+.. _position_11:
 
-.. button-link:: #position_10
+.. button-link:: #position_11
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
@@ -342,9 +373,9 @@ Education
 
 
 
-.. _position_11:
+.. _position_12:
 
-.. button-link:: #position_11
+.. button-link:: #position_12
     :color: primary
     :shadow:
     :class: sd-btn-shadow-primary-no-hover
