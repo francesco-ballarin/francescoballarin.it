@@ -72,26 +72,19 @@ Francesco Ballarin
             
             <a href="https://www.unicatt.it/corsi/master-universitari/milano/Financial-Engineering-for-Portfolio-and-Risk-Management.html" target="_blank">Registration is now open for the new Master Programme on Financial Engineering for Portfolio and Risk Management at Università Cattolica del Sacro Cuore. Apply by September 15, 2026.</a>
         
+        .. figure:: _static/images/spectral-deflation-slider.png
+
+            ..
+
+            
+            <a href="https://arxiv.org/abs/2508.04082" target="_blank">New preprint on spectral deflation for optimal control problems with state constraints, by T. Kadeethum, F. Ballarin, Y. Choi, S. Lee (June 2026).</a>
+        
         .. figure:: _static/images/himod-stent.png
 
             ..
 
             
             <a href="https://www.mate.polimi.it/biblioteca/add/qmox/05-2026.pdf" target="_blank">New preprint on modelling drug-eluting stents by means of a fictitious domain formulation and hierarchical model reduction, by A. Ranno, F. Ballarin, F. Lespagnol, P. Zunino, S. Perotto (January 2026).</a>
-        
-        .. figure:: _static/images/himod-infsup-slider.png
-
-            ..
-
-            
-            <a href="https://www.mate.polimi.it/biblioteca/add/qmox/48-2025.pdf" target="_blank">New preprint on proving the inf-sup condition for the semidiscrete HiMod reduction of Stokes problems, by E. Temellini, F. Ballarin, T. Chacón Rebollo, S. Perotto (August 2025).</a>
-        
-        .. figure:: _static/images/rom-global-in-time.png
-
-            ..
-
-            
-            <a href="https://arxiv.org/abs/2508.04082" target="_blank">New preprint on global-in-time iterative decoupled POD-Galerkin reduced order models for linear poroelasticity, by H. Gu, F. Ballarin, M. Cai, J. Li (August 2025).</a>
         
         .. figure:: _static/images/debian-slider.png
 
