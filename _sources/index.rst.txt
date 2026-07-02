@@ -72,6 +72,13 @@ Francesco Ballarin
             
             <a href="https://www.unicatt.it/corsi/master-universitari/milano/Financial-Engineering-for-Portfolio-and-Risk-Management.html" target="_blank">Registration is now open for the new Master Programme on Financial Engineering for Portfolio and Risk Management at Università Cattolica del Sacro Cuore. Apply by September 15, 2026.</a>
         
+        .. figure:: _static/images/fenics-slider.png
+
+            ..
+
+            
+            <a href="https://euromathsoc.org/news/217" target="_blank">The FEniCS Project was awarded the 2026 EMS/ECMI Lanczos Prize (July 2026).</a>
+        
         .. figure:: _static/images/spectral-deflation-slider.png
 
             ..
