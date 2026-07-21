@@ -10,6 +10,7 @@ Events
 
         
             * Francesco Ballarin, "Projection-Based Reduced Order Modelling of Coupled Poromechanics Problems in FEniCSx". Talk, Simula 25 years - FEniCS workshop, Simula Research Laboratory, Oslo, Norway (8-9 Sep. 2026).
+            * Francesco Ballarin, "Low-dimensional surrogates for large-scale dynamical systems arising from parametrized partial differential equations". Talk in a minisymposium, `31st International Conference on Difference Equations and Applications <https://icdea2026.sciencesconf.org/>`_, Milano, Italy (13-17 Jul. 2026).
             * Francesco Ballarin, Marco Gallo, Alessandro Musesti, Anita Pasotti, Rossana Riccardi, Riccarda Rossi. Organizing committee, `YoungPeople4Math 2026 <https://sites.google.com/unibs.it/semmat/youngpeople4math2026>`_, Brescia, Italy (12 May 2026).
     
     .. tab-item:: 2025
