@@ -219,7 +219,7 @@ Software
         .. container:: sd-card-body-software-img-container
 
     
-            .. image:: https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png
+            .. image:: https://www.debian.org/logos/openlogo.svg
     
 
     
