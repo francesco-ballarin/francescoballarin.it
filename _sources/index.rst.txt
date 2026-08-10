@@ -143,10 +143,10 @@ Francesco Ballarin
 
         :doc:`Teaching <teaching>`
         ^^^
-        * Lecturer for course on "`Data-driven Modelling for Mechanical Systems Summer School <https://people.iitism.ac.in/~d2mms/>`_". Summer school at Indian Institute of Technology (Indian School of Mines) Dhanbad, India (Jul. 2026).
-        * Lecturer for course on "Stochastic processes and optimization for data science". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (Spring 2026).
-        * Lecturer for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (Spring 2026).
-        * Lecturer for course on "Stochastic processes and optimization for machine learning". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (Spring 2026).
+        * Lecturer for course on "Stochastic processes and optimization for data science". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (Spring 2027).
+        * Lecturer for course on "Elements of numerical analysis". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Italy (Spring 2027).
+        * Lecturer for course on "Advanced calculus and scientific computing for finance". Post-graduate Specialising Master Level II, Financial Engineering for Portfolio and Risk Management, Università Cattolica del Sacro Cuore, Italy (Fall 2026).
+        * Lecturer for course on "Mathematical methods". Master degree in Data analytics for business, Università Cattolica del Sacro Cuore, Italy (Fall 2026).
         +++
         :doc:`Read more <teaching>`
 
@@ -154,9 +154,9 @@ Francesco Ballarin
 
         :doc:`Students <students>`
         ^^^
+        * Advisor in the master thesis of Federico Porteri, "On the Scott-Vogelius family of finite elements". Master degree in Mathematics, Università Cattolica del Sacro Cuore, Brescia, Italy (Sep. 2026).
         * Co-advisor in the Ph.D. thesis of Erika Temellini, "`Advanced mathematical models and methods for the incompressible Navier-Stokes equations: Towards high Reynolds number regimes and realistic applications <https://hdl.handle.net/10589/250257>`_". Ph.D. in Mathematical Models and Methods in Engineering, Politecnico di Milano, Italy (Feb. 2026).
         * Advisor in the master thesis of Ilaria Crippa, "Deep Learning Frameworks for Data Imputation in Forest Ecosystem Pollution Monitoring". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Dec. 2025).
-        * Advisor in the master thesis of Sveva Maria Martilotti, "Deep Learning for breast cancer diagnosis: a comparison of optimizers in a Convolutional Neural Network". Master degree in Data Analytics for Business, Università Cattolica del Sacro Cuore, Milano, Italy (Sep. 2025).
         +++
         :doc:`Read more <students>`
 
