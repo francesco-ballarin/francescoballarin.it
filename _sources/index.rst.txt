@@ -12,7 +12,7 @@ Francesco Ballarin
     affiliation
     contact
     events
-    projects
+    funding
     publications
     software
     students
@@ -167,7 +167,7 @@ Francesco Ballarin
 
         :doc:`Events <events>`
         ^^^
-        * Talk, Simula 25 years - FEniCS workshop, Simula Research Laboratory, Oslo, Norway (8-9 Sep. 2026).
+        * Talk, `Simula 25 years - FEniCS workshop <https://www.simula.no/about/events/simula-25-years-fenics-workshop>`_, Simula Research Laboratory, Oslo, Norway (8-9 Sep. 2026).
         * Talk in a minisymposium, `31st International Conference on Difference Equations and Applications <https://icdea2026.sciencesconf.org/>`_, Milano, Italy (13-17 Jul. 2026).
         * Organizing committee, `YoungPeople4Math 2026 <https://sites.google.com/unibs.it/semmat/youngpeople4math2026>`_, Brescia, Italy (12 May 2026).
         * Organizing committee, `FEniCS 2025 <https://fenicsproject.org/fenics-2025>`_, Groningen, The Netherlands (18-20 Jun. 2025).
@@ -176,7 +176,7 @@ Francesco Ballarin
 
     .. grid-item-card::
 
-        :doc:`Projects <projects>`
+        :doc:`Funding <funding>`
         ^^^
         * Member of "Metodi numerici avanzati per problemi di fluidodinamica computazionale", INdAM GNCS 2026, 2026.
         * Member and unit leader of "ROMEU: Reduced Order Models for Environmental and Urban flows", PRIN 2022 PNRR, 2023-2025.
@@ -184,4 +184,4 @@ Francesco Ballarin
         * Member of "Metodi numerici per lo studio di strutture geometriche parametriche complesse", INdAM GNCS 2023, 2023.
         
         +++
-        :doc:`Read more <projects>`
+        :doc:`Read more <funding>`

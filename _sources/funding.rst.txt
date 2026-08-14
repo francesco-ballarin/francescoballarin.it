@@ -1,6 +1,6 @@
 .. DO NOT MODIFY: this file was automatically generated!
 
-Projects
+Funding
 ========
 
 .. tab-set::
