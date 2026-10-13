@@ -5,6 +5,10 @@ Events
 
 .. tab-set::
     
+    .. tab-item:: 2027
+
+        
+            * Marc Hirschvogel, Nadine Thomalla, Sjard Rosenbusch, Georg Brösigke, Francesco Ballarin. Organizing committee, `FEniCS 2027 <https://fenicsproject.org/fenics-2027>`_, Berlin, Germany (30 Jun. 2027 - 2 Jul. 2027).
     
     .. tab-item:: 2026
 
