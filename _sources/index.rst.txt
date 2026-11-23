@@ -77,7 +77,7 @@ Francesco Ballarin
             ..
 
             
-            <a href="https://arxiv.org/abs/2508.04082" target="_blank">New preprint on spectral deflation for optimal control problems with state constraints, by T. Kadeethum, F. Ballarin, Y. Choi, S. Lee (June 2026).</a>
+            <a href="https://arxiv.org/abs/2606.17971" target="_blank">New preprint on spectral deflation for optimal control problems with state constraints, by T. Kadeethum, F. Ballarin, Y. Choi, S. Lee (June 2026).</a>
         
         .. figure:: _static/images/himod-stent.png
 
@@ -85,20 +85,6 @@ Francesco Ballarin
 
             
             <a href="https://www.mate.polimi.it/biblioteca/add/qmox/05-2026.pdf" target="_blank">New preprint on modelling drug-eluting stents by means of a fictitious domain formulation and hierarchical model reduction, by A. Ranno, F. Ballarin, F. Lespagnol, P. Zunino, S. Perotto (January 2026).</a>
-        
-        .. figure:: _static/images/debian-slider.png
-
-            ..
-
-            
-            <a href="https://qa.debian.org/developer.php?login=francesco.ballarin%40unicatt.it" target="_blank">I joined the Debian Project as Debian Developer (July 2025).</a>
-        
-        .. figure:: _static/images/mathex-slider.png
-
-            ..
-
-            
-            <a href="https://centridiricerca.unicatt.it/mathex" target="_blank">I was appointed director of MATHEX, the research center of Università Cattolica on applications of mathematics and computer science (May 2025).</a>
         
 
 .. grid:: 1 1 2 2
